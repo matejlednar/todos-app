@@ -1,0 +1,4 @@
+button.app-button.disabled,
+button.app-button.disabled:hover {
+  background-color: rgb(156 163 175);
+}
